@@ -2,7 +2,8 @@ body{
     margin: 0;
     padding: 0;
     font-family: Poppins;
-    background-color: #b3b3b3;
+    background: rgb(210,194,194);
+background: linear-gradient(90deg, rgba(210,194,194,1) 0%, rgba(224,224,233,1) 51%, rgba(221,208,208,1) 100%);
 }
 .nav-bar-img{
     width: 100%;
